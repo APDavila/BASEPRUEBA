@@ -1,0 +1,16 @@
+C:\Documentos\BASEPRUEBA\bin\Debug\BASEPRUEBA.dacpac
+C:\Documentos\BASEPRUEBA\obj\Debug\BASEPRUEBA.sqlproj.AssemblyReference.cache
+C:\Documentos\BASEPRUEBA\obj\Debug\Model.xml
+C:\Documentos\BASEPRUEBA\obj\Debug\refactor.xml
+C:\Documentos\BASEPRUEBA\obj\Debug\postdeploy.sql
+C:\Documentos\BASEPRUEBA\obj\Debug\predeploy.sql
+C:\Documentos\BASEPRUEBA\obj\Debug\BASEPRUEBA.dll
+C:\Documentos\BASEPRUEBA\obj\Debug\BASEPRUEBA.pdb
+C:\Documentos\BASEPRUEBA\bin\Debug\BASEPRUEBA.dll
+C:\Documentos\BASEPRUEBA\bin\Debug\BASEPRUEBA.pdb
+F:\ProyectosSQL\BASEPRUEBA\bin\Debug\BASEPRUEBA.dacpac
+F:\ProyectosSQL\BASEPRUEBA\bin\Debug\BASEPRUEBA.dll
+F:\ProyectosSQL\BASEPRUEBA\bin\Debug\BASEPRUEBA.pdb
+F:\ProyectosSQL\BASEPRUEBA\obj\Debug\BASEPRUEBA.sqlproj.AssemblyReference.cache
+F:\ProyectosSQL\BASEPRUEBA\obj\Debug\BASEPRUEBA.dll
+F:\ProyectosSQL\BASEPRUEBA\obj\Debug\BASEPRUEBA.pdb
